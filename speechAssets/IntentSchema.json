@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetRecipeIntent",
+      "slots": [
+        {
+          "name": "Food",
+          "type": "AMAZON.Food"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

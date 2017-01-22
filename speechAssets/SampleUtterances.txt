@@ -1,0 +1,3 @@
+GetRecipesIntent get recipes for {Food}
+GetRecipesIntent list the recipes for {Food}
+GetRecipesIntent list all recipes for {Food}
